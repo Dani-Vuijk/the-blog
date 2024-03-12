@@ -12,3 +12,11 @@ Stuff left to do:
 - [ ] tell people I'm doing this
 - [ ] banish
 - [x] invent time travel
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
