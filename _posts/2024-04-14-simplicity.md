@@ -72,8 +72,8 @@ Simplicity need not be the end all goal of all things, and sometimes complexity 
 But for those events that needn't be beautiful and need to be over, simplicity might be the way to go.  
 If you know me well enough to be reading this, please let me know your toughs and any and all feedback!
 
-[^1]: I am not actually sure that they are different. It could be that they are the same at different scales, or there is significant overlap. 
-They seem meaningfully different and unifying them proved difficult, but that does not mean they are in fact different.  
+
+[^1]: I am not actually sure that they are different. It could be that they are the same at different scales, or there is significant overlap. They seem meaningfully different and unifying them proved difficult, but that does not mean they are in fact different.  
 
 [^2]: [Corporate and individual tax expenditures in the US](https://taxfoundation.org/research/all/federal/corporate-individual-tax-expenditures-2017/)  
 
