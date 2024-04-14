@@ -74,7 +74,9 @@ If you know me well enough to be reading this, please let me know your toughs an
 
 [^1]: I am not actually sure that they are different. It could be that they are the same at different scales, or there is significant overlap. 
 They seem meaningfully different and unifying them proved difficult, but that does not mean they are in fact different.  
-[^2]: [Corporate and individual tax expenditures in the US](https://taxfoundation.org/research/all/federal/corporate-individual-tax-expenditures-2017/)  
-[^3]: [Difficulties simplifying the tax code](https://www.cnbc.com/2017/08/09/simplifying-the-us-tax-code-isnt-so-simple-heres-why.html)  
-[^4]: Some examples of simplification goals/dimensions could be: having more time, decreased mental-pressure, saving money.  
 
+[^2]: [Corporate and individual tax expenditures in the US](https://taxfoundation.org/research/all/federal/corporate-individual-tax-expenditures-2017/)  
+
+[^3]: [Difficulties simplifying the tax code](https://www.cnbc.com/2017/08/09/simplifying-the-us-tax-code-isnt-so-simple-heres-why.html)  
+
+[^4]: Some examples of simplification goals/dimensions could be: having more time, decreased mental-pressure, saving money.  
