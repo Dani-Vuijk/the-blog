@@ -4,7 +4,6 @@ title:  "Slava Ukrayini"
 date: 2024-05-03
 ---
 
-### Slava Ukrayini
 Staying up till 3am studying in vain  
 Waking up shocked by a look of pain.  
 You forget your examination.  
