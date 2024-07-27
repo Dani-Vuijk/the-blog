@@ -35,7 +35,7 @@ It's strange to have someone save your life.
 Giving up agency and to have it be alright.  
 I don't think I have ever lived this role  
 Never truly been vulnerable  
-And this I learned trough it all:  
+And this I learned through it all:  
   
 Ik heb te lang in angst geleefd  
 Teveel tijd het verkeerde gevreesd  
